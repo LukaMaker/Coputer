@@ -11,18 +11,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-03-07 19:43:24 +1100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-03-07 19:43:24 +1100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-07 19:43:24 +1100"
@@ -35,7 +23,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-07 19:43:24 +1100"
     },
@@ -47,7 +35,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-07 19:43:24 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-07 19:43:24 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-07 19:43:24 +1100"
     },
@@ -107,5 +107,5 @@
     },
     "done": true
   },
-  "DataVersion": 4189
+  "DataVersion": 4325
 }
